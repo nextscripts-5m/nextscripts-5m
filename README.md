@@ -3,6 +3,7 @@
 - ⚡ I'm currently workin on FiveM scripts
 - 📫 How to reach me: joining the discord below or add me on discord `d0cc.`
 - 💥 Join my discord for getting support: https://discord.gg/VU9Vhyhe7b
+- 🇮🇹
 
 <!--
 **docc5m/docc5m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
