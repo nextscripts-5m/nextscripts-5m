@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ We are currently working on FiveM scripts
+- ⚡ Currently working on FiveM scripts
 - 📫 How to reach us: joining the discord below or add me on discord `d0cc.`
 - 💥 Join our discord for getting support: https://discord.gg/VU9Vhyhe7b
 
